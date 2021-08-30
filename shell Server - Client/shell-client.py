@@ -1,6 +1,5 @@
 import subprocess
 import socket
-from sys import getrefcount
 from colorama import Fore
 
 
